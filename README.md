@@ -62,4 +62,4 @@ displaying my best efforts
 * Communication
 
 ## MOCK INTERVIEW
-<video src="YOUR_VIDEO_ASSET_URL" width="600" controls></video>
+<video src="https://github.com/AGaidien/AGaidien.github.io/issues/1" width="600" controls></video>
