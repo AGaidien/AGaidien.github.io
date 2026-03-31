@@ -49,7 +49,7 @@ displaying my best efforts
 * UX/UI Design
 * Design Software
   * Figma
-  * Photosho
+  * Photoshop
   * InDesign
   * Canva
 * Coding
