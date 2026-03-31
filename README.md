@@ -46,3 +46,19 @@ displaying my best efforts
 *Higher Certificate in Mobile Application and Web Design*
 
 ## SKILLS
+* UX/UI Design
+* Design Software
+  * Figma
+  * Photosho
+  * InDesign
+  * Canva
+* Coding
+  * Html, Css, Javascript
+  * React Native
+  * Bootstrap, Tailwind
+  * C\#
+* Computer Literacy
+* Critical Thinking
+* Communication
+
+## MOCK INTERVIEW
