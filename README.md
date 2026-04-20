@@ -62,5 +62,5 @@ displaying my best efforts
 * Communication
 
 ## MOCK INTERVIEW
-<video src="AsadGaidien_231055080_Mock.mp4" controls width="100%">
-</video>
+<video src="AsadGaidien_231055080_Mock.mp4" controls width="100%"></video>
+## Portfolio
