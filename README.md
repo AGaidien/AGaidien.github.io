@@ -109,28 +109,40 @@ Once everything was completed I had a nicely designed portfolio that contained m
 <img width="552" height="1026" alt="{Product Backlog 8}" src="https://github.com/user-attachments/assets/9526904c-b1a2-4c0a-818d-f4cea0d21f16" />
 
 ## Sprint Backlog
+
 ### Sprint 1
 <img width="842" height="782" alt="{Sprint 1}" src="https://github.com/user-attachments/assets/1039c616-d14c-43d3-840b-131d1a596f10" />
+
 ### Sprint 2
 <img width="840" height="610" alt="{Sprint 2}" src="https://github.com/user-attachments/assets/fb31df1f-6240-45a6-804a-63580a0f5c23" />
+
 ### Sprint 3
 <img width="842" height="804" alt="{Sprint 3}" src="https://github.com/user-attachments/assets/7bbf9e8b-0a01-487e-9e0d-42fbcaa6df05" />
+
 ### Sprint 4
 <img width="840" height="749" alt="{Sprint 4}" src="https://github.com/user-attachments/assets/2c0440bf-8caf-4d9c-9ee0-c1808d32fe32" />
+
 ### Sprint 5
 <img width="842" height="736" alt="{Sprint 5}" src="https://github.com/user-attachments/assets/4257f84e-b64c-4c75-b285-e9997206734c" />
+
 ### Sprint 6
 <img width="843" height="691" alt="{Sprint 6}" src="https://github.com/user-attachments/assets/23b788bb-8aba-41b4-b469-549e23d18f34" />
+
 ### Sprint 7
 <img width="842" height="1085" alt="{Sprint 7}" src="https://github.com/user-attachments/assets/d941ec23-4418-4c8b-a543-4b39d4fe6f8f" />
 
+
 ## Agile Logbook
+
 ### 14-17 July
 <img width="800" height="1129" alt="{Agile Logbook 1}" src="https://github.com/user-attachments/assets/ad2fa356-57c2-4835-ad80-aeb728346c84" />
+
 ### 21-24 July
 <img width="801" height="1129" alt="{Agile Logbook 2}" src="https://github.com/user-attachments/assets/a34448c2-a273-44ab-8c5b-7b0afe63fc27" />
+
 ### 28-31 July
 <img width="798" height="1128" alt="{Agile Logbook 3}" src="https://github.com/user-attachments/assets/d601d794-caf1-4029-a555-28005a05a9f5" />
+
 ### 4-7 August
 <img width="800" height="1129" alt="{Agile Logbook 4}" src="https://github.com/user-attachments/assets/5307a286-5e24-4306-b6cc-9c479cbaecd5" />
 
