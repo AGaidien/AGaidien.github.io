@@ -81,6 +81,6 @@ trying to get my video to display I only realised later that the video does not 
 
 Once everything was completed I had a nicely designed portfolio that contained my CV and mock interview.
 
-##Agile Team Charter
+## Agile Team Charter
 
 
