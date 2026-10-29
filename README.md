@@ -80,3 +80,7 @@ I was struggling to add my video to the repository after trouble shooting I real
 trying to get my video to display I only realised later that the video does not display in the Github preview only on the actual website.
 
 Once everything was completed I had a nicely designed portfolio that contained my CV and mock interview.
+
+##Agile Team Charter
+
+
